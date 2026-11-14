@@ -19,3 +19,12 @@ Original code is offered under MIT (`LICENSE-MIT`). Documentation and learning m
 
 ## Project status
 Starter release v0.1.0. Contributions and testing reports are welcome; see `CONTRIBUTING.md`.
+
+
+## Search and project website
+
+The project documentation site is designed for people searching for practical AutoCAD civil engineering drafting help, Civil 3D workflow guidance, CAD layer standards, plotting checklists, AutoLISP starter routines, and civil drawing QA/QC. The site is published from `docs/` using GitHub Pages; see [docs/SEO_AND_DISCOVERY.md](docs/SEO_AND_DISCOVERY.md) for setup and responsible discovery practices. Search visibility is not guaranteed.
+
+## Download and verify
+
+The source repository is the authoritative copy. Use GitHub's **Code → Download ZIP** or the [main-branch ZIP archive](https://github.com/manojac122/civildraft-ai/archive/refs/heads/main.zip). After extracting, confirm that the top-level folder contains `README.md`, `SKILL.md`, `skills/`, `integrations/`, `autolisp/`, `standards/`, `docs/`, and `tests/`.
