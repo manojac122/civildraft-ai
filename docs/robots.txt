@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manojac122.github.io/civildraft-ai/sitemap.xml
