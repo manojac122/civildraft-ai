@@ -27,4 +27,4 @@ The project documentation site is designed for people searching for practical Au
 
 ## Download and verify
 
-The source repository is the authoritative copy. Use GitHub's **Code → Download ZIP** or the [main-branch ZIP archive](https://github.com/manojac122/civildraft-ai/archive/refs/heads/main.zip). After extracting, confirm that the top-level folder contains `README.md`, `SKILL.md`, `skills/`, `integrations/`, `autolisp/`, `standards/`, `docs/`, and `tests/`.
+The source repository is the authoritative copy. The full v0.2.0 source bundle is available as a separate ZIP while the remaining package files are being added to the repository. Do not treat the current main-branch ZIP as the complete skill package until the full source tree has been committed. After extracting the complete bundle, confirm that the top-level folder contains `README.md`, `SKILL.md`, `skills/`, `integrations/`, `autolisp/`, `standards/`, `docs/`, and `tests/`.
